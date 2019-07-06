@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="157" started-at="2019-06-04T15:41:45Z" finished-at="2019-06-04T15:41:45Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="157" started-at="2019-06-04T15:41:45Z" finished-at="2019-06-04T15:41:45Z">
+      <class name="QAclickacademy.APITest">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:QAclickacademy.APITest@511baa65]" name="Demo" duration-ms="43" started-at="2019-06-04T21:11:45Z" finished-at="2019-06-04T21:11:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method status="PASS" signature="SecondCase()[pri:0, instance:QAclickacademy.APITest@511baa65]" name="SecondCase" duration-ms="1" started-at="2019-06-04T21:11:45Z" finished-at="2019-06-04T21:11:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondCase -->
+      </class> <!-- QAclickacademy.APITest -->
+      <class name="QAclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:QAclickacademy.SeleniumTest@5b464ce8]" name="Demo" duration-ms="3" started-at="2019-06-04T21:11:45Z" finished-at="2019-06-04T21:11:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method status="PASS" signature="SecondCase()[pri:0, instance:QAclickacademy.SeleniumTest@5b464ce8]" name="SecondCase" duration-ms="9" started-at="2019-06-04T21:11:45Z" finished-at="2019-06-04T21:11:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondCase -->
+      </class> <!-- QAclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
